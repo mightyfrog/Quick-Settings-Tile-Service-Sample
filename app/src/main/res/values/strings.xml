@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quick Settings Tile Service Sample</string>
+    <string name="tile_disabled">Tile disabled</string>
+    <string name="tile_enabled">Tile enabled</string>
+</resources>
